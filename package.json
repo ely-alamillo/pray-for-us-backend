@@ -1,0 +1,24 @@
+{
+  "name": "pray-for-us-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ely-alamillo/pray-for-us-backend.git"
+  },
+  "author": "Ely Alamillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ely-alamillo/pray-for-us-backend/issues"
+  },
+  "homepage": "https://github.com/ely-alamillo/pray-for-us-backend#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "pg": "^7.4.1",
+    "sequelize": "^4.29.0"
+  }
+}
